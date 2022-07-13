@@ -6,7 +6,7 @@ module.exports = {
     './sections/**/*.{js,ts,jsx,tsx}',
     './components/**/*.{js,ts,jsx,tsx}',
   ],
-  darkmode: false,
+  darkMode: 'class',
   content: [],
   theme: {
     extend: {},
